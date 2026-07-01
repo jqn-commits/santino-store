@@ -4,7 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        santino: { DEFAULT: '#3f2d23', accent: '#b45309' }, // tono cerámica/terracota (edita a gusto)
+        santino: { DEFAULT: '#3f2d23', accent: '#b45309' }, // tono cerámica/terracota
+        cream: '#faf6f0', // fondo crema
+      },
+      fontFamily: {
+        display: ['var(--font-display)', 'Georgia', 'serif'],
       },
     },
   },
