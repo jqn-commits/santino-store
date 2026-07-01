@@ -4,8 +4,8 @@ import CartProvider from '@/components/CartProvider';
 import CartBadge from '@/components/CartBadge';
 
 export const metadata = {
-  title: 'Santino',
-  description: 'Tienda Santino',
+  title: 'Santino · cerámica gres',
+  description: 'Cerámica gres hecha a mano en Chile. Tazones, tazas, platos, maceteros y más.',
 };
 
 export default function RootLayout({ children }) {

@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        santino: { DEFAULT: '#111827', accent: '#e11d48' }, // marca (edita a gusto)
+        santino: { DEFAULT: '#3f2d23', accent: '#b45309' }, // tono cerámica/terracota (edita a gusto)
       },
     },
   },
